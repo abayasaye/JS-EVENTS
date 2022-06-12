@@ -1,0 +1,20 @@
+body{
+    background: url(https://img.freepik.com/free-vector/pixel-art-arcade-game-scene-with-life-bar-trees-board-clouds-8bit-background_360488-287.jpg?w=1380) no-repeat center center fixed;
+    background-size: 100vw;
+}
+#player{
+    position: absolute;
+    width: 5vw;
+    height: 5vh;
+    background:black;
+    top: 30vh;
+}
+#play_Game{
+    width: 30vw;
+    height: 20vh;
+    position: fixed;
+    background:url() ;
+    left: 40vw;
+    top: 40vh;
+    font-size: 430%;
+}
